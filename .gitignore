@@ -1,1 +1,4 @@
 docling-venv
+.env
+data
+__pycache__
