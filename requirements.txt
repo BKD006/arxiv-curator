@@ -1,0 +1,12 @@
+requests
+ipykernel
+python-dotenv
+pydantic
+docling
+lancedb
+streamlit
+tiktoken
+langchain
+langchain-core
+langchain-groq
+huggingface_hub[xf_xet]
