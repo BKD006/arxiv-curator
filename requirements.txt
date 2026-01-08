@@ -2,11 +2,14 @@ requests
 ipykernel
 python-dotenv
 pydantic
-docling
+docling>=2.43.0
 lancedb
 streamlit
 tiktoken
 langchain
 langchain-core
 langchain-groq
-huggingface_hub[xf_xet]
+huggingface_hub
+matplotlib
+sentence-transformers
+boto3
